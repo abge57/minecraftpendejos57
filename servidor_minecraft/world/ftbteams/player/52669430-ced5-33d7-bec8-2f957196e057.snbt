@@ -1,0 +1,17 @@
+{
+	id: "52669430-ced5-33d7-bec8-2f957196e057"
+	type: "player"
+	player_name: "ReimonRUaf"
+	ranks: {
+		52669430-ced5-33d7-bec8-2f957196e057: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ReimonRUaf"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

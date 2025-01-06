@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "52669430ced533d7bec82f957196e057"
+	name: "ReimonRUaf"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

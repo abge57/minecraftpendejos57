@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "78672b95664f3f08a224480371907007"
+	name: "abgelillo57"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

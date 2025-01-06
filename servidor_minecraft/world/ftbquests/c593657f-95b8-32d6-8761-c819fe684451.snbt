@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c593657f95b832d68761c819fe684451"
+	name: "Orfril"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

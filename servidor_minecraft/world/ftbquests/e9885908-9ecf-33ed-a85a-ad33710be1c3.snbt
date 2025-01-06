@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e98859089ecf33eda85aad33710be1c3"
+	name: "Cannonblood"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

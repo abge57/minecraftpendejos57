@@ -1,0 +1,17 @@
+{
+	id: "e9885908-9ecf-33ed-a85a-ad33710be1c3"
+	type: "player"
+	player_name: "Cannonblood"
+	ranks: {
+		e9885908-9ecf-33ed-a85a-ad33710be1c3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cannonblood"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF599F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
